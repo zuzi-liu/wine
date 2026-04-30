@@ -149,7 +149,6 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-
 Example workflow:
 
 ```python
@@ -167,7 +166,6 @@ recommend_wines(
 
 
 ## Testing
-
 This project includes unit tests covering:
 
 * data loading and preprocessing
@@ -181,8 +179,7 @@ Run tests with:
 pytest
 ```
 
-## 📈 Future Improvements
-
+## Future Improvements
 * Incorporate uncertainty (robust optimization)
 * Add more interpretable preference mappings
 * Build a user interface (CLI or web app)
